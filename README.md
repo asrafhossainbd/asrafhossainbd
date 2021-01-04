@@ -21,16 +21,16 @@
   
   <br>
   
-  ***Talking about Personal Stuffs:***
+  ###Talking about Personal Stuffs:###
 
   💻 I love writing code and learn anythings about it
-  <br><br>
+  <br>
   📚 I’m currently learning C programing
-  <br><br>
+  <br>
   💬 Ask me anything about from <a href="https://github.com/asrafhossainbd/asrafhossainbd/issues" title="Issues">Here</a>
-  <br><br>
+  <br>
   📫 How to reach me: <a href="mailto: itasrafhossainbd@gmail.com">itasrafhossainbd@gmail.com</a>
-  <br><br>
+  <br>
   😄 Pronouns: He / Him
 </p>
 
