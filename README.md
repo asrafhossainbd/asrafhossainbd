@@ -1,9 +1,9 @@
 <h3 align="center">Hello there, I'm Asraf Hossain 👋</h3>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/asrafhossainbd/" title="LinkedIn Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/stackoverflow.svg"> Twitter</a></code>
-<code><a href="https://www.facebook.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/stackoverflow.svg"> Facebook</a></code>
-  <code><a href="https://www.instagram.com/asrafhossainbd/" title="Instagram Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/twitter.svg"> Twitter</a></code>
+<code><a href="https://www.facebook.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/facebook.svg"> Facebook</a></code>
+  <code><a href="https://www.instagram.com/asrafhossainbd/" title="Instagram Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="justify">
@@ -38,23 +38,23 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/c.svg"></code>
-  <code><img title="C++" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/css.svg"></code>
-  <code><img title="BEM" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/gulp.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/sass.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/json.svg"></code>
+  <code><img title="C" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/django.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/css.svg"></code>
+  <code><img title="BEM" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/gulp.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/sass.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/json.svg"></code>
 </p>
 
 <hr>
