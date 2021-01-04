@@ -20,7 +20,6 @@
   <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code.gif" width="350" height="220" />
   
   <br>
-  <br>
   
   **Talking about Personal Stuffs:**
 
