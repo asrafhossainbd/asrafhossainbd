@@ -15,8 +15,9 @@
   <br>
   <br>
   <br>
+  <br>
   
-  <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code.gif" width="400" height="200" />
+  <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code.gif" width="400" height="300" />
   
   **Talking about Personal Stuffs:**
 
