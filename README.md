@@ -39,22 +39,22 @@
 
 <p align="center">
   <code><img title="C" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/c.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/problemSolving.png"></code>
   <code><img title="C++" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/cpp.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/java-original.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/javascript.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/json.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/html5.svg"></code>
   <code><img title="CSS" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/css.svg"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/jquery-original.svg"></code>
   <code><img title="BEM" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/gulp.svg"></code>
   <code><img title="SASS" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/sass.svg"></code>
   <code><img title="React" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/react-original.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/json.svg"></code>
 </p>
 
 <hr>
