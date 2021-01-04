@@ -2,15 +2,15 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/asrafhossainbd/" title="LinkedIn Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-
+  <br>
   <code><a href="https://twitter.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/stackoverflow.svg"> Twitter</a></code>
-
+  <br>
   <code><a href="https://www.facebook.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/stackoverflow.svg"> Facebook</a></code>
-
+  <br>
   <code><a href="https://www.instagram.com/asrafhossainbd/" title="Instagram Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="left">
+<p align="center">
   Hi, I'm Md. Asraf Hossain, passionate self-taught Full Stack Web Developer 🚀 from Bangladesh. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that I can succesfully center an element with css. Beside's Hacking stuff, I play chess ♘ and Fifa ⚽. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️
   <br>
   <br>
