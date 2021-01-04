@@ -16,7 +16,7 @@
   <br>
   <br>
   
-  <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code.gif" width="300" height="250" />
+  
   
   **Talking about Personal Stuffs:**
 
@@ -29,6 +29,8 @@
   📫 How to reach me: <a href="mailto: itasrafhossainbd@gmail.com">itasrafhossainbd@gmail.com</a>
   <br>
   😄 Pronouns: He / Him
+  
+  <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code.gif" width="300" height="220" />
 </p>
 
 <br>
