@@ -14,7 +14,7 @@
   Hi, I'm Md. Asraf Hossain, passionate self-taught Full Stack Web Developer 🚀 from Bangladesh. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that I can succesfully center an element with css. Beside's Hacking stuff, I play chess ♘ and Fifa ⚽. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️
   <br>
   <br>
-  <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code_circle.gif" width="250" height="250" />
+  <img align="right" alt="GIF" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/code_circle.gif" width="150" height="150" />
   
   **Talking about Personal Stuffs:**
 
