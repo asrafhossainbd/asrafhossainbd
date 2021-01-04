@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm Asraf Hossain 👋</h3>
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/asrafhossainbd/" title="LinkedIn Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/asrafhossainbd/" title="LinkedIn Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/stackoverflow.svg"> Twitter</a></code>
 <code><a href="https://www.facebook.com/asrafhossainbd/" title="Stack Overflow Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/stackoverflow.svg"> Facebook</a></code>
   <code><a href="https://www.instagram.com/asrafhossainbd/" title="Instagram Profile"><img width="22" src="https://github.com/asrafhossainbd/asrafhossainbd/blob/master/images/instagram.svg"> Instagram</a></code>
