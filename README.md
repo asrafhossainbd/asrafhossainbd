@@ -21,7 +21,7 @@
   
   <br>
   
-  <h6>Talking about Personal Stuffs:</h6>
+  <h4>Talking about Personal Stuffs:</h4>
 
   💻 I love writing code and learn anythings about it
   <br>
